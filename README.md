@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/zak-u/rsschool-cv/cv
+https://zak-u.github.io/rsschool-cv/cv.html
